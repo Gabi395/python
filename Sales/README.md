@@ -5,8 +5,7 @@ This project analyzes sales, customers, and product performance using a PostgreS
 The goal is to demonstrate the full workflow of designing a relational data model, running analytical SQL queries, and visualizing insights using Python.
 
 ## Database Schema (ER Diagram)
-![ER Diagram](er_diagram.png)
-
+<img src="er_diagram.png" alt="ER Diagram" width="600">
 ---
 
 ## Project Description
