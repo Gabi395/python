@@ -6,18 +6,17 @@ The goal is to demonstrate the full workflow of designing a relational data mode
 
 ## Database Setup
 
-The database was created in PostgreSQL using SQL scripts located in the `/sql` folder.
+The database was created in PostgreSQL using SQL scripts located in the '/sql' folder.
 
-- `create_tables.sql` – contains table definitions  
-- `insert_data.sql` – contains sample data inserts  
+- 'create_tables.sql' – contains table definitions  
+- 'insert_data.sql' – contains sample data inserts
+- 'analysis_queries.sql' - contains 
 
 The schema is visualized in the ER diagram below.
 
 <p align="center">
   <img src="er_diagram.png" alt="ER Diagram" width="400">
 </p>
-
----
 
 ## Project Description
 The project uses a custom e‑shop database containing customers, orders, products, and order items.  
@@ -28,8 +27,6 @@ The analysis focuses on understanding:
 - how order data can be transformed into meaningful business insights  
 
 The project combines SQL (DataGrip) for data modeling and Python for visualization.
-
----
 
 ## Methodology
 
@@ -54,8 +51,6 @@ Custom PostgreSQL database containing:
 - order_items  
 - products  
 
----
-
 ## Results
 
 ### Key finding 1: Top‑selling products
@@ -66,16 +61,12 @@ This helps identify best‑performing items.
 By joining orders and order items, we calculate total revenue per customer.  
 This highlights the most valuable customers.
 
----
-
 ## Conclusions
 The project demonstrates how SQL and Python can be combined to perform end‑to‑end data analysis:
 
 - SQL handles data modeling and extraction  
 - Python transforms query results into clear visual insights  
 - Even a small dataset can reveal meaningful business patterns  
-
----
 
 ## Requirements
 - Python 3.x  
@@ -86,7 +77,6 @@ The project demonstrates how SQL and Python can be combined to perform end‑to�
 - PostgreSQL  
 - DataGrip or any SQL client  
 
----
 
 ## Author
 Gabriela Dvorakova
