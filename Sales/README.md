@@ -6,7 +6,7 @@ The goal is to demonstrate the full workflow of designing a relational data mode
 
 ## Database Schema (ER Diagram)
 <p align="center">
-  <img src="er_diagram.png" alt="ER Diagram" width="600">
+  <img src="er_diagram.png" alt="ER Diagram" width="400">
 </p>
 
 ---
