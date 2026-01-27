@@ -4,7 +4,15 @@
 This project analyzes sales, customers, and product performance using a PostgreSQL database and Python.  
 The goal is to demonstrate the full workflow of designing a relational data model, running analytical SQL queries, and visualizing insights using Python.
 
-## Database Schema (ER Diagram)
+## Database Setup
+
+The database was created in PostgreSQL using SQL scripts located in the `/sql` folder.
+
+- `create_tables.sql` – contains table definitions  
+- `insert_data.sql` – contains sample data inserts  
+
+The schema is visualized in the ER diagram below.
+
 <p align="center">
   <img src="er_diagram.png" alt="ER Diagram" width="400">
 </p>
