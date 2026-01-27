@@ -10,7 +10,7 @@ The database was created in PostgreSQL using SQL scripts located in the '/sql' f
 
 - 'create_tables.sql' – contains table definitions  
 - 'insert_data.sql' – contains sample data inserts
-- 'analysis_queries.sql' - contains 
+- 'analysis_queries.sql' - contains SQL queries
 
 The schema is visualized in the ER diagram below.
 
